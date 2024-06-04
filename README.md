@@ -18,3 +18,13 @@ python server_b.py
 ```
 http://localhost:8300/send_keywords
 ```
+
+# Environment
+---
+1. Python version : 3.9.19 (anaconda)
+2. Database : sqlite (python sqlit3)
+3. Server : Flask
+4. windows 10/11 
+---
+
+
