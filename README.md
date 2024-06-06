@@ -19,6 +19,9 @@ python server_b.py
 http://localhost:8300/send_keywords
 ```
 
+# Homomorphic Secret Sharing from Polynomial-Modulus LWE 
+![image](https://github.com/Steve900125/HSS/assets/67135387/56c1604c-cd40-41bf-8250-130cda813c13)
+
 # Environment
 ---
 1. Python version : 3.9.19 (anaconda)
